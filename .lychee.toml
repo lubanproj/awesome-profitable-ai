@@ -1,0 +1,6 @@
+max_retries = 3
+retry_wait_time = 2
+timeout = 30
+method = "get"
+accept = ["200..=299", "403", "429"]
+user_agent = "Mozilla/5.0 (compatible; awesome-profitable-ai-link-check/1.0; +https://github.com/lubanproj/awesome-profitable-ai)"

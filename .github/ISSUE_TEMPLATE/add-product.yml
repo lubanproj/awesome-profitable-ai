@@ -1,0 +1,113 @@
+name: Add a product
+description: Nominate a commercially validated AI product for the list.
+title: "Add: "
+labels:
+  - addition
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing. Read `CONTRIBUTING.md` before submitting. A public price alone must use the **Paid product** label and must not be described as revenue.
+  - type: input
+    id: product
+    attributes:
+      label: Product name
+      placeholder: Example AI
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Canonical product URL
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - AI Directories and Discovery
+        - General AI SaaS
+        - AI Companions
+        - AI Games and Interactive Entertainment
+        - Focused AI Tools
+        - AI Image and Video
+        - LLM Gateways and Model APIs
+        - AI Developer Tools
+        - AI Voice and Audio
+        - Other (explain below)
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Objective description
+      description: One neutral sentence explaining what the product does.
+      placeholder: AI-assisted software for...
+    validations:
+      required: true
+  - type: dropdown
+    id: signal
+    attributes:
+      label: Commercial signal
+      options:
+        - Revenue
+        - Customers
+        - Funding
+        - Paid product
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: Evidence claim
+      description: Quote or accurately paraphrase only what the source supports.
+      placeholder: The company reported $1 million ARR in 2026.
+    validations:
+      required: true
+  - type: input
+    id: evidence
+    attributes:
+      label: Direct evidence URL
+      description: Link to the official source, founder statement, reputable report, or official pricing page.
+      placeholder: https://example.com/news/revenue-update
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Evidence date
+      placeholder: 2026-08-30 or 2026
+    validations:
+      required: true
+  - type: dropdown
+    id: relationship
+    attributes:
+      label: Your relationship to the product
+      options:
+        - Unaffiliated community member
+        - Founder or employee
+        - Investor
+        - Affiliate or agency representative
+        - Customer
+        - Other (explain below)
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional context
+      description: Explain a new category, other relationship, or any caveat in the evidence.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Submission checklist
+      options:
+        - label: I read the contribution guidelines and checked that this is not a duplicate.
+          required: true
+        - label: I did not use a referral, affiliate, tracking, or shortened URL.
+          required: true
+        - label: I disclosed my relationship to the product accurately.
+          required: true
+

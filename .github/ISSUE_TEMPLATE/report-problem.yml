@@ -1,0 +1,48 @@
+name: Report a problem
+description: Report an outdated claim, broken link, duplicate, or other accuracy issue.
+title: "Fix: "
+labels:
+  - correction
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Affected product or section
+      placeholder: Product name or README section
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: Problem type
+      options:
+        - Broken product link
+        - Broken evidence link
+        - Outdated commercial claim
+        - Misleading or unsupported wording
+        - Duplicate or wrong category
+        - Product is discontinued
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: explanation
+    attributes:
+      label: What should change?
+      description: Explain the issue and the proposed correction.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Supporting URL
+      description: Provide a direct source when the correction concerns a factual claim.
+      placeholder: https://example.com/source
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmation
+      options:
+        - label: I searched existing issues before opening this report.
+          required: true
+
