@@ -135,7 +135,7 @@ Amounts and customer counts reflect what the linked source reported at publicati
 
 ## Methodology
 
-Entries favor official company reports and founder statements, followed by reputable reporting and official pricing pages. Discovery sources may include directories such as [Toolify](https://www.toolify.ai/Best-AI-Tools-revenue) and commercial-activity datasets such as [Stripe Referring Traffic](https://seo.web.cafe/referring/), but their traffic, payment-platform, and revenue estimates are not treated as evidence. Unsourced revenue databases, affiliate roundups, referral links, and inferred profitability are excluded. Sources are reviewed when an entry is added; figures may age, so please report outdated claims or broken links.
+Entries favor official company reports and founder statements, followed by reputable reporting and official pricing pages. Discovery sources may include commercial-activity datasets such as stripe referring traffic, but their traffic, payment-platform, and revenue estimates are not treated as evidence. Unsourced revenue databases, affiliate roundups, referral links, and inferred profitability are excluded. Sources are reviewed when an entry is added; figures may age, so please report outdated claims or broken links.
 
 Products are listed alphabetically within each category. Inclusion is editorial, not an endorsement, investment recommendation, or paid placement.
 
