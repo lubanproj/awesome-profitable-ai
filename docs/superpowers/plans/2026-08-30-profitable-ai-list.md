@@ -17,7 +17,7 @@
 - Label commercial evidence as exactly `Revenue`, `Customers`, `Funding`, or `Paid product`.
 - Never present funding, pricing, users, or downloads as revenue.
 - Include a direct source and visible year where the source exposes one.
-- Do not seed Formind or Veline AI.
+- Apply the same evidence and disclosure rules to maintainer-associated products, including Formind and Veline AI.
 - Order products alphabetically within each category.
 - Use CC0 1.0 for the curated dataset.
 
@@ -54,7 +54,7 @@ rg -n 'Formind|Veline AI' README.md
 rg '^- \[' README.md | sort | uniq -d
 ```
 
-Expected: all designed sections appear; the excluded product search and duplicate-entry search print nothing.
+Expected: all designed sections appear; Formind and Veline AI are present with the standard evidence format, and the duplicate-entry search prints nothing.
 
 - [ ] **Step 4: Review every evidence sentence**
 
@@ -158,4 +158,3 @@ Run the YAML parser, `awesome-lint`, Lychee, duplicate checks, and excluded-name
 - [ ] **Step 3: Review the rendered Markdown source**
 
 Read the complete README and contribution guide for broken hierarchy, inconsistent labels, promotional wording, and unsupported claims.
-

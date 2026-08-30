@@ -37,20 +37,25 @@ Amounts and customer counts reflect what the linked source reported at publicati
 
 ## General AI SaaS
 
+- [ChatGPT](https://chatgpt.com/) - General-purpose AI assistant for writing, research, analysis, coding, images, and voice. **Paid product:** Offers Plus, Pro, Business, and Enterprise plans alongside a free tier ([official pricing, accessed 2026](https://openai.com/chatgpt/pricing/)).
+- [Claude](https://claude.ai/) - Anthropic's AI assistant for analysis, writing, coding, research, and connected workflows. **Paid product:** Offers Pro, Max, Team, and Enterprise plans alongside a free tier ([official pricing, accessed 2026](https://www.anthropic.com/pricing?subjects=claude&type=product)).
 - [Copy.ai](https://www.copy.ai/) - Go-to-market workflow platform for sales, marketing, and operations teams. **Revenue:** Reported 480% revenue growth in 2024 and four months of more than 20% monthly ARR expansion ([company announcement, 2024](https://www.copy.ai/blog/copy-ais-go-to-market-ai-platform-sees-480-revenue-growth-in-2024)).
 - [Gamma](https://gamma.app/) - AI workspace for creating presentations, websites, documents, and social content. **Revenue:** Crossed $100 million ARR while profitable ([founder report, 2025](https://gamma.app/insights/how-we-built-a-usd100m-business-differently)).
 - [Glean](https://www.glean.com/) - Enterprise workplace search, knowledge, and agent platform. **Revenue:** Reported more than $200 million ARR after doubling revenue in nine months ([company announcement, 2025](https://www.glean.com/press/glean-surpasses-200m-in-arr-for-enterprise-ai-doubling-revenue-in-nine-months)).
+- [Grammarly](https://www.grammarly.com/) - AI writing assistant for revising text, adjusting tone, checking originality, and generating content. **Paid product:** Offers paid Pro and Enterprise plans alongside a free tier ([official pricing, accessed 2026](https://www.grammarly.com/plans)).
 - [Perplexity](https://www.perplexity.ai/) - Answer engine for web research, enterprise search, and model APIs. **Revenue:** Reached approximately $100 million ARR in March 2025 ([TechCrunch, 2025](https://techcrunch.com/2025/03/20/perplexity-is-reportedly-in-talks-to-raise-up-to-1b-at-an-18b-valuation/)).
 - [WRITER](https://writer.com/) - Enterprise platform for building governed generative-AI applications and workflows. **Customers:** Reported 250 enterprise customers while tripling revenue year over year ([VentureBeat, 2024](https://venturebeat.com/ai/writer-triples-revenue-and-expands-to-250-customers-as-demand-for-enterprise-ai-soars)).
 
 ## AI Companions
 
 - [Blush](https://blush.ai/) - AI dating simulator built around fictional relationship scenarios and conversational characters. **Paid product:** Offers a paid Blush Pro subscription for full service access ([terms, accessed 2026](https://blush.ai/legal/terms)).
+- [Candy AI](https://candy.ai/) - AI companion platform for personalized character chat, images, voice, and video. **Paid product:** Sells monthly, quarterly, and annual premium subscriptions ([official subscription page, accessed 2026](https://candy.ai/subscriptions)).
 - [Chai](https://chai.ai/) - Social AI platform for creating and chatting with conversational characters. **Revenue:** Reported $40 million ARR alongside more than 10 million users ([company announcement, 2025](https://www.chai-research.com/announcement)).
 - [Character.AI](https://character.ai/) - Platform for creating and interacting with AI characters through text and voice. **Paid product:** Sells c.ai+ monthly and annual subscriptions ([official subscription page, accessed 2026](https://character.ai/subscribe)).
 - [Kindroid](https://kindroid.ai/) - Personal AI companion with configurable memory, personality, voice, images, and video. **Paid product:** Offers monthly, quarterly, and annual premium subscriptions ([subscription guide, 2026](https://kindroid.ai/v2/docs/subscriptions/)).
 - [Nomi](https://nomi.ai/) - AI companion focused on persistent memory and personalized conversations. **Paid product:** Monetizes through premium features in a self-funded business ([TechCrunch founder interview, 2024](https://techcrunch.com/2024/09/26/nomi-ai-wants-to-make-the-most-emotionally-intelligent-chatbots-on-the-market/)).
 - [Replika](https://replika.com/) - Personal AI companion for text, voice, image, and roleplay interactions. **Paid product:** Offers recurring Pro, Ultra, and Platinum subscription tiers ([subscription guide, accessed 2026](https://help.replika.com/hc/en-us/articles/39551043419149-Choosing-a-Subscription)).
+- [Veline AI](https://www.velineai.com/) - Adult AI companion platform for customizable characters, private chat, images, voice, and video. **Paid product:** Sells daily and recurring Pro access with credits for chat, images, and HD video ([official pricing, accessed 2026](https://www.velineai.com/pricing)).
 
 ## AI Games and Interactive Entertainment
 
@@ -64,17 +69,26 @@ Amounts and customer counts reflect what the linked source reported at publicati
 
 - [Artisan](https://www.artisan.co/) - AI sales-agent platform for lead research, outreach, and CRM workflows. **Revenue:** Reached $1 million ARR within three months of launch ([company announcement, 2024](https://www.artisan.co/blog/artisan-seed-round)).
 - [Clay](https://www.clay.com/) - Data-enrichment and go-to-market workflow platform with AI-assisted research. **Revenue:** Reached $100 million ARR with more than 200% enterprise net revenue retention ([company announcement, 2025](https://www.clay.com/blog/100m-arr)).
+- [GPTZero](https://gptzero.me/) - AI-content detection and writing-authenticity platform for educators, organizations, and developers. **Paid product:** Offers Professional, team, enterprise, and API plans ([official pricing, accessed 2026](https://gptzero.me/pricing)).
 - [Harvey](https://www.harvey.ai/) - AI platform for legal and professional-services research and workflows. **Revenue:** Reported more than $100 million ARR and over 500 customers ([company report, 2025](https://www.harvey.ai/blog/harveys-three-year-anniversary)).
 - [Jasper](https://www.jasper.ai/) - Enterprise marketing platform for AI-assisted content and campaign workflows. **Customers:** Reported more than 850 enterprise customers while enterprise revenue doubled year over year ([company report, 2024](https://www.jasper.ai/blog/ushering-in-jaspers-next-phase-of-hypergrowth)).
+- [Otter.ai](https://otter.ai/) - AI meeting assistant for transcription, summaries, action items, and conversational search. **Paid product:** Offers paid Pro, Business, and Enterprise plans alongside a free tier ([official pricing, accessed 2026](https://otter.ai/pricing)).
 - [Sierra](https://sierra.ai/) - Enterprise platform for deploying customer-service AI agents. **Revenue:** Reached $100 million ARR seven quarters after launch ([company announcement, 2025](https://sierra.ai/de/blog/100m-arr)).
+- [TurboScribe](https://turboscribe.ai/) - AI transcription and translation service for audio and video files. **Paid product:** Sells an Unlimited subscription with longer uploads, bulk processing, and priority transcription ([official pricing, accessed 2026](https://turboscribe.ai/pricing)).
 
 ## AI Image and Video
 
+- [Formind](https://www.formind.app/) - Conversational image agent for generation, editing, background removal, enhancement, and style conversion. **Paid product:** Uses generation credits after a one-generation free trial ([official tools page, accessed 2026](https://www.formind.app/tools)).
 - [HeyGen](https://www.heygen.com/) - Generative video platform for avatars, translation, and business video production. **Revenue:** Reported $200 million ARR in June 2026 ([company announcement, 2026](https://www.heygen.com/blog/heygen-surpasses-200m-arr)).
+- [Leonardo.Ai](https://leonardo.ai/) - Generative platform for creating and editing images, video, designs, and motion assets. **Paid product:** Offers paid individual, team, and API plans alongside a free tier ([official pricing, accessed 2026](https://leonardo.ai/pricing)).
 - [Midjourney](https://www.midjourney.com/) - Image-generation service operated through the web and Discord. **Paid product:** Offers four recurring subscription tiers with commercial usage terms ([plan comparison, accessed 2026](https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans)).
+- [OpenArt](https://openart.ai/) - AI creator studio for generating and editing images and video with models and reusable characters. **Paid product:** Offers paid subscription tiers and credit allowances alongside a free plan ([official pricing, accessed 2026](https://openart.ai/pricing)).
 - [Photoroom](https://www.photoroom.com/) - AI image editor for product photography and commerce workflows. **Revenue:** Reported reaching $50 million ARR in 2023 ([company report, 2025](https://www.photoroom.com/inside-photoroom/why-sustainable-ai-is-a-win-win-win)).
+- [PixAI](https://pixai.art/) - AI art platform for generating anime-style images and video, training LoRAs, and sharing creations. **Paid product:** Sells Starter, Plus, and Premium memberships with credits and advanced features ([official documentation, accessed 2026](https://docs.pixai.art/docs/pricing/membership)).
+- [remove.bg](https://www.remove.bg/) - AI service and API for automatically removing image backgrounds. **Paid product:** Offers paid plans and credit-based access for higher-quality and scaled workflows ([official pricing, accessed 2026](https://www.remove.bg/pricing)).
 - [Runway](https://runway.com/) - Generative image and video platform for creative and enterprise production. **Customers:** Reports enterprise use by companies including Amazon, Microsoft, Adobe, and Robinhood ([company report, 2026](https://runway.com/news/company-news%2Fthe-next-phase-of-enterprise-video-generation)).
 - [Synthesia](https://www.synthesia.io/) - Enterprise platform for creating videos with AI avatars and voices. **Revenue:** Exceeded $100 million ARR with more than 65,000 business customers ([company announcement, 2025](https://www.synthesia.io/post/100-million-revenue-adobe-investment)).
+- [VEED.IO](https://www.veed.io/) - Online video editor with AI tools for avatars, subtitles, dubbing, clipping, and generation. **Paid product:** Offers paid Lite, Pro, Business, and Enterprise plans alongside a free tier ([official pricing, accessed 2026](https://www.veed.io/pricing)).
 
 ## LLM Gateways and Model APIs
 
@@ -99,13 +113,14 @@ Amounts and customer counts reflect what the linked source reported at publicati
 - [AssemblyAI](https://www.assemblyai.com/) - Speech-to-text and speech-understanding APIs for developers. **Paid product:** Offers usage-based API pricing and custom enterprise rates ([pricing, accessed 2026](https://www.assemblyai.com/pricing)).
 - [Deepgram](https://deepgram.com/) - Speech recognition, text-to-speech, and voice-agent APIs. **Revenue:** Reported becoming cash-flow positive in 2024 with more than 400 enterprise customers ([company report, 2025](https://deepgram.com/learn/deepgram-accelerates-into-2025)).
 - [ElevenLabs](https://elevenlabs.io/) - AI speech, dubbing, sound-effect, and voice-agent platform. **Revenue:** Exceeded $500 million ARR in the first four months of 2026 ([company announcement, 2026](https://elevenlabs.io/blog/500m-arr-and-new-investors)).
+- [LALAL.AI](https://www.lalal.ai/) - AI audio service for stem separation, noise removal, voice cleaning, and voice cloning. **Paid product:** Offers paid Lite and Pro plans with expanded processing and downloads ([official checkout, accessed 2026](https://www.lalal.ai/checkout/)).
 - [Murf](https://murf.ai/) - AI voice-generation and dubbing platform for creators and businesses. **Funding:** Raised a $10 million Series A after growing ARR more than twentyfold ([company announcement, 2022](https://murf.ai/blog/series-a-announcement)).
 - [Speechify](https://speechify.com/) - AI text-to-speech reader, voice generator, and dubbing platform. **Paid product:** Offers a recurring Premium voice-assistant plan and separate studio products ([pricing, accessed 2026](https://speechify.com/pricing/)).
 - [WellSaid](https://www.wellsaid.io/) - AI voiceover studio for creators, teams, and enterprises. **Paid product:** Offers paid plans with commercial usage rights ([pricing, accessed 2026](https://www.wellsaid.io/ai-voice-pricing)).
 
 ## Methodology
 
-Entries favor official company reports and founder statements, followed by reputable reporting and official pricing pages. Unsourced revenue databases, affiliate roundups, referral links, and inferred profitability are excluded. Sources are reviewed when an entry is added; figures may age, so please report outdated claims or broken links.
+Entries favor official company reports and founder statements, followed by reputable reporting and official pricing pages. Directories such as [Toolify](https://www.toolify.ai/Best-AI-Tools-revenue) may be used to discover candidates, but their traffic, payment-platform, and revenue estimates are not treated as evidence. Unsourced revenue databases, affiliate roundups, referral links, and inferred profitability are excluded. Sources are reviewed when an entry is added; figures may age, so please report outdated claims or broken links.
 
 Products are listed alphabetically within each category. Inclusion is editorial, not an endorsement, investment recommendation, or paid placement.
 

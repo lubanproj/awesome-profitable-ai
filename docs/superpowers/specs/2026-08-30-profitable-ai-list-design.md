@@ -39,7 +39,7 @@ Each entry uses this shape:
 - [Product](https://product.example) - Objective description. **Revenue:** Verifiable claim ([source, year](https://evidence.example)).
 ```
 
-The initial release targets roughly 40 to 60 strong entries. Quality and evidence clarity take priority over category symmetry or list length. Formind and Veline AI are deliberately not included in the initial seed because the maintainer intends to submit them later under the same evidence rules.
+The initial release targets roughly 40 to 60 strong entries. Quality and evidence clarity take priority over category symmetry or list length. Formind and Veline AI were deliberately not included in the initial seed and were added later at the maintainer's request under the same evidence rules.
 
 ## Repository Files
 
@@ -67,5 +67,4 @@ Before delivery:
 - Run `npx awesome-lint` against the repository and resolve actionable failures.
 - Check all Markdown links with Lychee, allowing documented exceptions only for sites that block automated clients.
 - Run local structural checks for duplicate product URLs, missing evidence labels, missing source links, and malformed entry punctuation.
-- Review the final diff to confirm that Formind and Veline AI were not seeded and that no signal class is overstated.
-
+- Review the final diff to confirm that maintainer-associated products follow the same evidence rules and that no signal class is overstated.
