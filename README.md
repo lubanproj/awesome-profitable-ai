@@ -106,6 +106,7 @@ Amounts and customer counts reflect what the linked source reported at publicati
 - [Replicate](https://replicate.com/) - API platform for running and fine-tuning machine-learning models. **Customers:** Reported 30,000 paying customers and two million signups ([company announcement, 2023](https://replicate.com/blog/series-b)).
 - [Together AI](https://www.together.ai/) - Cloud platform for training, fine-tuning, and serving generative models. **Revenue:** Reported sixfold ARR growth while announcing a $305 million Series B ([company announcement, 2025](https://www.together.ai/blog/together-ai-announcing-305m-series-b)).
 - [WaveSpeedAI](https://wavespeed.ai/) - Unified API platform for image, video, audio, and language models. **Paid product:** Uses pay-per-generation credits with published per-image, per-second, and per-token rates ([official pricing, accessed 2026](https://wavespeed.ai/pricing)).
+- [XiuRouter](https://router.xiu.ai/) - Hosted model API gateway for applications and coding agents, exposing OpenAI Responses and Chat Completions, Anthropic Messages, and Gemini GenerateContent routes with scoped keys and request-level usage and cost records. **Paid product:** Uses usage-based pricing with current model and service-group prices published on the official pricing page ([official pricing, accessed 2026](https://router.xiu.ai/en/pricing/)).
 
 ## AI Developer Tools
 
